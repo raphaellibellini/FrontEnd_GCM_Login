@@ -21,17 +21,16 @@
   color: #563d7c !important;
 }
 
-.welcome {
-  text-align: center;
-  font-size: 44px;
-  margin-top: 10% !important;
-  font-family: 'Anton', sans-serif;
+.card {
+  margin: 120px 0 0 32px !important;
 }
 
-.name {
+.perfil {
   text-align: center;
   font-size: 44px;
+  padding: 32px;
   font-family: 'Anton', sans-serif;
-  color: #563d7c !important;
+  background-color: #563d7c !important;
+  color: #fff;
 }
 
